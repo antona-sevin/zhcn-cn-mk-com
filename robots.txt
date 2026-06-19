@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antona-sevin.github.io/zhcn-cn-mk-com/sitemap.xml
